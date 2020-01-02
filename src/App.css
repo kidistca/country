@@ -1,0 +1,9 @@
+.text-color {
+  color: #00a0d7;
+}
+.scroller {
+  width: 600px;
+  overflow-y: scroll;
+  position: relative;
+  height: 1300px;
+}
